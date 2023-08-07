@@ -112,6 +112,8 @@ venv.bak/
 # Data 
 Data/
 .Data
+CleanData/
+.CleanData
 
 # Spyder project settings
 .spyderproject
